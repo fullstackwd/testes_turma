@@ -1,26 +1,43 @@
-# Meu Documento Avançado
+# Meu Documento com Emojis
 
 ## Introdução
 
-Este é um exemplo de um documento em **Markdown avançado** com algumas partes coloridas.
+Este é um exemplo de um documento em **Markdown** com listas de emojis para tornar o conteúdo mais divertido e visual.
 
-### Seções Coloridas
+## Emojis de Animais
 
-<p style="color: blue;">Este texto é azul.</p>
+- 🐶 Cachorro
+- 🐱 Gato
+- 🦁 Leão
+- 🐴 Cavalo
+- 🐰 Coelho
 
-<p style="color: green;">Este texto é verde.</p>
+## Emojis de Frutas
 
-<p style="color: red;">Este texto é vermelho.</p>
+- 🍎 Maçã
+- 🍌 Banana
+- 🍉 Melancia
+- 🍓 Morango
+- 🍍 Abacaxi
 
-### Listas Coloridas
+## Emojis de Clima
 
-- <span style="color: orange;">Item 1</span>
-- <span style="color: purple;">Item 2</span>
-  - <span style="color: pink;">Subitem 2.1</span>
+- ☀️ Sol
+- ☁️ Nuvem
+- 🌧️ Chuva
+- ⛈️ Tempestade
+- ❄️ Neve
 
-### Código com Estilo
+## Emojis de Atividades
 
-```python
-def hello_world():
-    print("Hello, World!")  # Esta linha imprime uma saudação
+- 🎉 Festa
+- 🎨 Pintura
+- 📚 Leitura
+- 🎮 Videogame
+- 🚴‍♂️ Ciclismo
 
+---
+
+## Conclusão
+
+Usar emojis pode tornar a leitura mais agradável e interativa. Experimente incluir emojis em seus documentos!
